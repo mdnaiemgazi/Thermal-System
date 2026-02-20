@@ -22,7 +22,8 @@ These equations model simplified flow patterns that can represent:
 - Thermal gradient-driven flows
 
 ## 📊 Output Visualization
-![Sample Output](sample_output.png)
+!1(streamline_plot.png)
+!2(Thermal_System_Flow_Analysis.png)
 
 The visualization shows:
 - **Left plot**: Streamlines colored by U-component magnitude
