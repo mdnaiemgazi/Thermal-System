@@ -106,7 +106,7 @@ The solution combines potential flow theory with Bernoulli's equation:
 ## Project Visualization
 
 ### Pressure Contour Plot Around Circular Cylinder
-![Pressure Distribution](./pressure_distribution.png)
+![Pressure Distribution](./Figure_1.png)
 
 *Figure 1: Filled contour plot of pressure distribution around a circular cylinder (R = 1.5) in uniform flow (U = 1 m/s). Red indicates high pressure (stagnation regions), blue indicates low pressure (acceleration regions). The symmetric pattern demonstrates the inviscid nature of potential flow.*
 
