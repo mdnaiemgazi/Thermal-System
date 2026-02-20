@@ -93,4 +93,5 @@ def plot_streamlines_with_analysis(n=5, points=100):
 
 # Run the analysis
 if __name__ == "__main__":
+
     X, Y, U, V = plot_streamlines_with_analysis()
