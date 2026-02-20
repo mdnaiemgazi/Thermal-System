@@ -30,6 +30,8 @@ A computational fluid dynamics (CFD) visualization tool that simulates ideal pot
 - Colored streamlines showing flow acceleration
 - Masked cylinder body for clear visualization
 
+**Source Code:** [`Flow_Over_Cylinder_Streamline.py`](https://github.com/mdnaiemgazi/Thermal-System/blob/main/potential-flow-cylinder/Flow_Over_Cylinder_Streamline.py)
+
 **Sample Output:**
 
 ![Potential Flow Around Cylinder](https://github.com/mdnaiemgazi/Thermal-System/blob/main/potential-flow-cylinder/output.png?raw=true)
@@ -47,6 +49,10 @@ Analyzes the pressure coefficient distribution around a circular cylinder in pot
 - Symmetric pressure distribution visualization
 - Stagnation point identification
 
+**Sample Output:**
+
+![Cylinder Pressure Distribution](https://github.com/mdnaiemgazi/Thermal-System/blob/main/Cylinder-Pressure-Distribution-Potential-Flow/Figure_1.png?raw=true)
+
 ---
 
 ### 3. **Stream Line Plot Generator**
@@ -59,6 +65,12 @@ A dedicated tool for generating and customizing streamline plots for various flo
 - Multiple flow configuration options
 - High-resolution output for publications
 - Interactive parameter adjustment
+
+**Sample Outputs:**
+
+| Thermal System Flow Analysis | Streamline Plot |
+|:---:|:---:|
+| ![Thermal System Flow Analysis](https://github.com/mdnaiemgazi/Thermal-System/blob/main/Stream_line_plot/Thermal_System_Flow_Analysis.png?raw=true) | ![Streamline Plot](https://github.com/mdnaiemgazi/Thermal-System/blob/main/Stream_line_plot/streamline_plot.png?raw=true) |
 
 ---
 
@@ -73,6 +85,12 @@ A comprehensive simulation of the ideal Diesel cycle, calculating thermodynamic 
 - Compression ratio analysis
 - Heat addition and rejection visualization
 
+**Sample Outputs:**
+
+| P-V Diagram (Diesel Cycle) | Diesel Cycle P-V Diagram |
+|:---:|:---:|
+| ![PV Diagram Diesel Cycle](https://github.com/mdnaiemgazi/Thermal-System/blob/main/diesel-cycle-thermodynamic-simulator/PV_diagram_diesel_cycle.png?raw=true) | ![Diesel Cycle PV Diagram](https://github.com/mdnaiemgazi/Thermal-System/blob/main/diesel-cycle-thermodynamic-simulator/diesel_cycle_PV_diagram.png?raw=true) |
+
 ---
 
 ### 5. **Engine Pin Shear Force Analysis**
@@ -86,6 +104,10 @@ Structural analysis tool for calculating shear forces and stresses in engine pis
 - Safety factor calculations
 - Material property integration
 
+**Sample Output:**
+
+![Shear Force on Pins vs Crank Angle](https://github.com/mdnaiemgazi/Thermal-System/blob/main/engine-pin-shear-force-analysis/shear_force_on_pins_crank_angle_plot.png?raw=true)
+
 ---
 
 ### 6. **1D Heat Diffusion Simulator**
@@ -98,6 +120,10 @@ A numerical solver for the transient heat conduction equation in one dimension, 
 - Multiple boundary condition options
 - Temperature profile animation
 - Thermal diffusivity sensitivity analysis
+
+**Sample Output:**
+
+![1D Heat Equation Solution](https://github.com/mdnaiemgazi/Thermal-System/blob/main/heat-diffusion-1d-simulator/1D_heat_equation.png?raw=true)
 
 ---
 
