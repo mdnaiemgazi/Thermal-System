@@ -1,0 +1,20 @@
+PANDAS COMMANDS GUIDE: READING CSV FILES
+=========================================
+
+This guide provides comprehensive examples of how to use pandas to read CSV files
+for engine data analysis. These commands can be used in Python scripts or Jupyter
+notebooks.
+
+-------------------------------------------------------------------------------
+
+BASIC CSV READING COMMANDS
+-------------------------------------------------------------------------------
+
+1. READ ENTIRE CSV FILE
+   ```python
+   import pandas as pd
+   
+   # Read the entire file
+   df = pd.read_csv('engine_file.csv')
+   print(f"Total rows: {len(df)}")
+   print(df.head())
