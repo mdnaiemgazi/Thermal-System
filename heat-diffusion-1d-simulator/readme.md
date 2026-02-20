@@ -17,6 +17,12 @@ Consider a rod of length L = 5 m initially subjected to a sinusoidal temperature
 
 where α is the thermal diffusivity (0.2 m²/s), T is temperature, x is position, and t is time.
 
+## Visualization
+
+![1D Heat Diffusion Simulation](1D_heat_equation.png)
+
+*Figure 1: Temperature profile evolution in the rod at t = 10.0 seconds. The black line shows the initial sinusoidal profile (t=0), while the salmon line represents the current temperature distribution. Heat diffuses from the center toward the ends, reducing the peak temperature from 150°C to approximately 68°C.*
+
 ## Objectives
 
 - Implement a numerical solver for the 1D transient heat equation using finite differences
