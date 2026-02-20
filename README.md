@@ -5,7 +5,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-1.21%2B-green)
 
 ## 👨‍🔬 Author
-**Naiem Gazi**  
+**MD Naiem Gazi**  
 *Mechanical Engineering, CUET (Chittagong University of Engineering & Technology)*
 
 ## 📋 Project Description
